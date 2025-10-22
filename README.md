@@ -9,7 +9,7 @@ For new projects, I recommend Web-ifc, since it fulfills the same purpose, plus 
 
 ## Follow-up and alternative to IFC++
 
-IfcSplitAndMerge is a light weight but high performance application based on web-ifc: https://github.com/ifcquery/IfcSplitAndMerge
+IfcSplitAndMerge is a light weight but high performance application based on web-ifc (not IFC++): https://github.com/ifcquery/IfcSplitAndMerge
 
 <img width="2550" height="1696" alt="Screenshot 2025-09-30 104907" src="https://github.com/user-attachments/assets/eb77f3e0-e6d5-4365-a6a4-09c8894cde45" />
 
@@ -24,3 +24,4 @@ the IFC library used in IfcSplitAndMerge is called web-ifc (https://github.com/T
 Web-ifc is so light weight, it can be directly compiled into a C++ console or GUI application, or linked as a library on Windows or Linux. It even compiles and runs efficiently as WebAssembly.<br><br>
 
 If you want to benefit from my experience how to implement web-ifc in various applications, please contact info at ifcquery.com<br><br>
+
